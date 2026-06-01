@@ -2,7 +2,7 @@ replicaCount: 1
 fullnameOverride: supplier-service
 image:
   repository: 204645257245.dkr.ecr.us-east-1.amazonaws.com/supplier-service
-  tag: sha-a0017b8
+  tag: sha-88c141e
   pullPolicy: Always
 service:
   type: ClusterIP
